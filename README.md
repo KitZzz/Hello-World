@@ -1,5 +1,7 @@
 # Hello COMP5232!
 
+#"Jerry add the content"
+
 Here we are just using the Github web interface to do some simple editing.
 Try forking this project and adding your name below.
 
